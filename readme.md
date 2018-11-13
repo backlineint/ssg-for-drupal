@@ -8,6 +8,8 @@ Prerequisites:
 * Composer
 * Lando
 
+From /drupal:
+
 * `composer install`
 * `lando start`
 * Visit http://ssgfordrupal.lndo.site:8000
@@ -15,6 +17,16 @@ Prerequisites:
 * Database name, username and password: drupal8
 * Database host: drupal
 
+## Jekyll
+
+From /jekyll:
+
+* Follow #1 - 2 in qickstart - https://jekyllrb.com/docs/
+* `bundle install`
+* bundle exec jekyll serve
+* Browse to http://localhost:4000/
+
 ## Todo
 
 * Automate install process
+* Todo - outline existing jekyll install
