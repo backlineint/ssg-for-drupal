@@ -1,0 +1,4 @@
+name: ssg-for-drupal
+recipe: drupal8
+config:
+  webroot: web
