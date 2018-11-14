@@ -21,7 +21,7 @@ From /drupal:
 
 From /jekyll:
 
-* Follow #1 - 2 in qickstart - https://jekyllrb.com/docs/
+* Follow #1 - 2 in quickstart - https://jekyllrb.com/docs/
 * `bundle install`
 * bundle exec jekyll serve
 * Browse to http://localhost:4000/
@@ -29,4 +29,5 @@ From /jekyll:
 ## Todo
 
 * Automate install process
-* Todo - outline existing jekyll install
+* Outline existing jekyll install process
+* Outline Jekyll export process
